@@ -1,0 +1,21 @@
+.headingrow {
+    background-color: rgb(6, 6, 104);
+    color: white;
+    font-size: x-large;
+    font-family: "roboto";
+  }
+  
+  .textend {
+    text-align: start;
+  }
+  
+  .updatebtn {
+    font-family: "roboto";
+  }
+  
+  .updatebtn:hover
+  {
+      text-decoration: underline;
+      color: rgb(152, 8, 152);
+      font-size: medium;
+  }

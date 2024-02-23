@@ -1,0 +1,46 @@
+.Header-con
+{
+    background-color: navy;
+    padding: 10px;
+}
+.Logo-img
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+    
+}
+.logoName
+{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.Admin{
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+.Home-text{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    font-family:sans-serif;
+    margin: 10px;
+    padding-top: 15;
+}
+.logout-con
+{
+    display: flex;
+   align-items: center;
+    justify-content: center;
+}
+.confirm-btn
+{
+    margin: 10px;
+}
+.nav-toggle
+{
+    background-color: re;
+}
